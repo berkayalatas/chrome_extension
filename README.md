@@ -2,7 +2,7 @@
 
 ### Extension shows us: <br>
 -> Browser History  <br>
--> Shows the searched word  <br>
+-> Shows the searched word in browser  <br>
 -> The number of the word we're looking for.
 
 
