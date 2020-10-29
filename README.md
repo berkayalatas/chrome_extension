@@ -1,8 +1,8 @@
 # chrome_extension
 
-### Extension shows us:
-Browser History
-shows the searched word
+### Extension shows us: <br>
+Browser History  <br>
+shows the searched word  <br>
 The number of the word we're looking for.
 
 
